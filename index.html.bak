@@ -107,7 +107,7 @@
    		<div class="col-twelve">
 
    			<h5>About</h5>
-   			<h1>Yeta chai introduction hunxa</h1>
+   			<h1>Let me introduce myself.</h1>
 
    			<div class="intro-info">
 
@@ -129,23 +129,23 @@
    			<ul class="info-list">
    				<li>
    					<strong>Fullname:</strong>
-   					<span>Sarthak Pandey</span>
+   					<span>Juan Dela Cruz</span>
    				</li>
    				<li>
    					<strong>Birth Date:</strong>
-   					<span>Feb 4, 2001</span>
+   					<span>September 28, 1987</span>
    				</li>
    				<li>
    					<strong>Job:</strong>
-   					<span>Student</span>
+   					<span>Freelancer, Frontend Developer</span>
    				</li>
    				<li>
    					<strong>Website:</strong>
-   					<span>www.sarthakpandey.com.np</span>
+   					<span>www.kardswebsite.com</span>
    				</li>
    				<li>
    					<strong>Email:</strong>
-   					<span>nep.sarthak@gmail.com</span>
+   					<span>me@kardswebsite.com</span>
    				</li>
 
    			</ul> <!-- /info-list -->
