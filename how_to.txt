@@ -1,4 +1,0 @@
-git status
-git add . — Stage all changes.
-git commit -m "message" — Commit the changes.
-git push origin website — Push the changes to the remote website branch.
