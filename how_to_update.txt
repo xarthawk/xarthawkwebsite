@@ -1,0 +1,4 @@
+git status — Check the status of modified files.
+git add . — Stage all changes.
+git commit -m "message" — Commit the staged changes.
+git push origin main — Push the changes to the remote repository.
